@@ -1,0 +1,203 @@
+iterations: 96
+success rate: 0.69
+iterations: 44
+success rate: 0.63
+iterations: 113
+success rate: 0.66
+iterations: 100
+success rate: 0.68
+iterations: 18
+success rate: 0.6
+iterations: 228
+success rate: 0.6
+iterations: 101
+success rate: 0.69
+iterations: 106
+success rate: 0.69
+iterations: 57
+success rate: 0.69
+iterations: 93
+success rate: 0.69
+iterations: 56
+success rate: 0.63
+iterations: 101
+success rate: 0.74
+iterations: 105
+success rate: 0.78
+iterations: 105
+success rate: 0.71
+iterations: 41
+success rate: 0.67
+iterations: 72
+success rate: 0.67
+iterations: 101
+success rate: 0.7
+iterations: 100
+success rate: 0.68
+iterations: 101
+success rate: 0.64
+iterations: 104
+success rate: 0.7
+iterations: 108
+success rate: 0.65
+iterations: 102
+success rate: 0.76
+iterations: 38
+success rate: 0.68
+iterations: 41
+success rate: 0.66
+iterations: 250
+success rate: 0.63
+iterations: 93
+success rate: 0.62
+iterations: 101
+success rate: 0.76
+iterations: 126
+success rate: 0.69
+iterations: 72
+success rate: 0.67
+iterations: 86
+success rate: 0.76
+iterations: 101
+success rate: 0.73
+iterations: 71
+success rate: 0.72
+iterations: 59
+success rate: 0.74
+iterations: 86
+success rate: 0.6
+iterations: 149
+success rate: 0.7
+iterations: 77
+success rate: 0.63
+iterations: 94
+success rate: 0.71
+iterations: 98
+success rate: 0.7
+iterations: 100
+success rate: 0.77
+iterations: 63
+success rate: 0.66
+iterations: 100
+success rate: 0.74
+iterations: 101
+success rate: 0.67
+iterations: 48
+success rate: 0.65
+iterations: 76
+success rate: 0.63
+iterations: 102
+success rate: 0.76
+iterations: 122
+success rate: 0.71
+iterations: 78
+success rate: 0.7
+iterations: 100
+success rate: 0.74
+iterations: 32
+success rate: 0.62
+iterations: 143
+success rate: 0.71
+iterations: 48
+success rate: 0.66
+iterations: 36
+success rate: 0.68
+iterations: 79
+success rate: 0.73
+iterations: 67
+success rate: 0.61
+iterations: 101
+success rate: 0.66
+iterations: 101
+success rate: 0.72
+iterations: 43
+success rate: 0.67
+iterations: 96
+success rate: 0.72
+iterations: 38
+success rate: 0.61
+iterations: 76
+success rate: 0.73
+iterations: 166
+success rate: 0.77
+iterations: 100
+success rate: 0.67
+iterations: 101
+success rate: 0.71
+iterations: 61
+success rate: 0.7
+iterations: 45
+success rate: 0.68
+iterations: 41
+success rate: 0.63
+iterations: 63
+success rate: 0.66
+iterations: 74
+success rate: 0.68
+iterations: 103
+success rate: 0.77
+iterations: 107
+success rate: 0.66
+iterations: 100
+success rate: 0.74
+iterations: 71
+success rate: 0.7
+iterations: 100
+success rate: 0.65
+iterations: 96
+success rate: 0.67
+iterations: 90
+success rate: 0.71
+iterations: 100
+success rate: 0.69
+iterations: 95
+success rate: 0.69
+iterations: 68
+success rate: 0.68
+iterations: 39
+success rate: 0.61
+iterations: 133
+success rate: 0.73
+iterations: 104
+success rate: 0.71
+iterations: 109
+success rate: 0.75
+iterations: 118
+success rate: 0.69
+iterations: 55
+success rate: 0.7
+iterations: 100
+success rate: 0.68
+iterations: 87
+success rate: 0.69
+iterations: 93
+success rate: 0.71
+iterations: 102
+success rate: 0.68
+iterations: 86
+success rate: 0.73
+iterations: 104
+success rate: 0.68
+iterations: 65
+success rate: 0.65
+iterations: 105
+success rate: 0.8
+iterations: 55
+success rate: 0.61
+iterations: 112
+success rate: 0.72
+iterations: 95
+success rate: 0.69
+iterations: 101
+success rate: 0.64
+iterations: 47
+success rate: 0.64
+iterations: 101
+success rate: 0.69
+iterations: 95
+success rate: 0.69
+iterations: 101
+success rate: 0.65
+average success rate, 100 trials: 0.687
+success rate standard deviation, 100 trials: 0.0443508737231
+

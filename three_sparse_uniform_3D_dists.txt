@@ -1,0 +1,503 @@
+0
+ideal cost: 1087.90016337
+after cost: 1004.32869208
+min errors: 2
+success rate: 0.944444444444
+1
+ideal cost: 941.746867662
+after cost: 903.805382157
+min errors: 3
+success rate: 0.916666666667
+2
+ideal cost: 1155.95892144
+after cost: 1155.95892144
+min errors: 0
+success rate: 1.0
+3
+ideal cost: 1020.50925895
+after cost: 987.162244777
+min errors: 2
+success rate: 0.944444444444
+4
+ideal cost: 835.978187176
+after cost: 835.978187176
+min errors: 0
+success rate: 1.0
+5
+ideal cost: 995.884824475
+after cost: 967.892726755
+min errors: 3
+success rate: 0.916666666667
+6
+ideal cost: 1775.11585758
+after cost: 1551.80053433
+min errors: 3
+success rate: 0.916666666667
+7
+ideal cost: 1171.84010808
+after cost: 1171.84010808
+min errors: 0
+success rate: 1.0
+8
+ideal cost: 1138.72226368
+after cost: 1045.03102546
+min errors: 3
+success rate: 0.916666666667
+9
+ideal cost: 798.823781511
+after cost: 797.912660435
+min errors: 2
+success rate: 0.944444444444
+10
+ideal cost: 1428.30871693
+after cost: 1378.05971211
+min errors: 4
+success rate: 0.888888888889
+11
+ideal cost: 627.526623784
+after cost: 620.105158227
+min errors: 1
+success rate: 0.972222222222
+12
+ideal cost: 1232.32369228
+after cost: 1158.03840769
+min errors: 4
+success rate: 0.888888888889
+13
+ideal cost: 1053.67740605
+after cost: 970.135682176
+min errors: 1
+success rate: 0.972222222222
+14
+ideal cost: 1561.9861287
+after cost: 1352.60218001
+min errors: 5
+success rate: 0.861111111111
+15
+ideal cost: 811.159358775
+after cost: 803.854982857
+min errors: 1
+success rate: 0.972222222222
+16
+ideal cost: 732.852155327
+after cost: 727.240279964
+min errors: 1
+success rate: 0.972222222222
+17
+ideal cost: 1455.22707548
+after cost: 1303.79281397
+min errors: 6
+success rate: 0.833333333333
+18
+ideal cost: 704.421180229
+after cost: 695.862827781
+min errors: 1
+success rate: 0.972222222222
+19
+ideal cost: 876.704905158
+after cost: 752.974322728
+min errors: 2
+success rate: 0.944444444444
+20
+ideal cost: 1164.35151002
+after cost: 1083.86870791
+min errors: 2
+success rate: 0.944444444444
+21
+ideal cost: 777.432760359
+after cost: 770.977095571
+min errors: 2
+success rate: 0.944444444444
+22
+ideal cost: 1287.80862056
+after cost: 1158.11371192
+min errors: 2
+success rate: 0.944444444444
+23
+ideal cost: 1586.45763416
+after cost: 1338.3002968
+min errors: 4
+success rate: 0.888888888889
+24
+ideal cost: 1331.37744537
+after cost: 1166.84197944
+min errors: 3
+success rate: 0.916666666667
+25
+ideal cost: 1210.16126626
+after cost: 1205.83168118
+min errors: 2
+success rate: 0.944444444444
+26
+ideal cost: 781.455068786
+after cost: 777.567562974
+min errors: 1
+success rate: 0.972222222222
+27
+ideal cost: 1401.34613217
+after cost: 1333.32508625
+min errors: 3
+success rate: 0.916666666667
+28
+ideal cost: 1339.41354013
+after cost: 2245.56182974
+min errors: 17
+success rate: 0.527777777778
+29
+ideal cost: 911.710365634
+after cost: 900.276044418
+min errors: 2
+success rate: 0.944444444444
+30
+ideal cost: 1083.72991479
+after cost: 976.752286429
+min errors: 2
+success rate: 0.944444444444
+31
+ideal cost: 1319.41329924
+after cost: 1196.09480293
+min errors: 5
+success rate: 0.861111111111
+32
+ideal cost: 1268.07497568
+after cost: 1252.69285279
+min errors: 1
+success rate: 0.972222222222
+33
+ideal cost: 823.532041628
+after cost: 811.152539533
+min errors: 1
+success rate: 0.972222222222
+34
+ideal cost: 888.839026978
+after cost: 752.711599549
+min errors: 3
+success rate: 0.916666666667
+35
+ideal cost: 908.101302413
+after cost: 882.769964721
+min errors: 1
+success rate: 0.972222222222
+36
+ideal cost: 993.192343916
+after cost: 885.937411856
+min errors: 3
+success rate: 0.916666666667
+37
+ideal cost: 724.253525595
+after cost: 717.181613751
+min errors: 1
+success rate: 0.972222222222
+38
+ideal cost: 1009.12453171
+after cost: 1005.56858124
+min errors: 2
+success rate: 0.944444444444
+39
+ideal cost: 969.306174458
+after cost: 941.6812271
+min errors: 1
+success rate: 0.972222222222
+40
+ideal cost: 1111.29502327
+after cost: 981.663318605
+min errors: 2
+success rate: 0.944444444444
+41
+ideal cost: 988.851192513
+after cost: 937.812620028
+min errors: 1
+success rate: 0.972222222222
+42
+ideal cost: 964.416158562
+after cost: 940.298984037
+min errors: 2
+success rate: 0.944444444444
+43
+ideal cost: 905.035849139
+after cost: 873.263267824
+min errors: 1
+success rate: 0.972222222222
+44
+ideal cost: 734.413551466
+after cost: 732.378626697
+min errors: 1
+success rate: 0.972222222222
+45
+ideal cost: 932.144149628
+after cost: 885.006812984
+min errors: 2
+success rate: 0.944444444444
+46
+ideal cost: 896.264249664
+after cost: 838.430323992
+min errors: 1
+success rate: 0.972222222222
+47
+ideal cost: 579.085307543
+after cost: 572.098296821
+min errors: 1
+success rate: 0.972222222222
+48
+ideal cost: 1021.39106597
+after cost: 1021.39106597
+min errors: 0
+success rate: 1.0
+49
+ideal cost: 1074.8045027
+after cost: 1003.68287014
+min errors: 2
+success rate: 0.944444444444
+50
+ideal cost: 1471.78347323
+after cost: 1465.96018864
+min errors: 1
+success rate: 0.972222222222
+51
+ideal cost: 1414.70321508
+after cost: 1215.82169788
+min errors: 6
+success rate: 0.833333333333
+52
+ideal cost: 1262.57694798
+after cost: 1031.56594159
+min errors: 5
+success rate: 0.861111111111
+53
+ideal cost: 1048.75079057
+after cost: 985.479352557
+min errors: 4
+success rate: 0.888888888889
+54
+ideal cost: 1016.1663033
+after cost: 996.446698619
+min errors: 1
+success rate: 0.972222222222
+55
+ideal cost: 978.354520882
+after cost: 976.313581945
+min errors: 1
+success rate: 0.972222222222
+56
+ideal cost: 1447.61819032
+after cost: 1286.14889213
+min errors: 5
+success rate: 0.861111111111
+57
+ideal cost: 721.377554333
+after cost: 678.228197499
+min errors: 4
+success rate: 0.888888888889
+58
+ideal cost: 1324.96731892
+after cost: 1247.62879852
+min errors: 1
+success rate: 0.972222222222
+59
+ideal cost: 894.563642941
+after cost: 816.7789314
+min errors: 2
+success rate: 0.944444444444
+60
+ideal cost: 913.909331698
+after cost: 885.740133724
+min errors: 2
+success rate: 0.944444444444
+61
+ideal cost: 994.182649794
+after cost: 950.16557093
+min errors: 2
+success rate: 0.944444444444
+62
+ideal cost: 860.839502934
+after cost: 795.804937002
+min errors: 2
+success rate: 0.944444444444
+63
+ideal cost: 948.395286616
+after cost: 948.395286616
+min errors: 0
+success rate: 1.0
+64
+ideal cost: 1332.85758356
+after cost: 1289.58640815
+min errors: 4
+success rate: 0.888888888889
+65
+ideal cost: 759.422421136
+after cost: 714.894533091
+min errors: 2
+success rate: 0.944444444444
+66
+ideal cost: 1500.72875594
+after cost: 1427.67325264
+min errors: 2
+success rate: 0.944444444444
+67
+ideal cost: 1572.43946522
+after cost: 2163.76811917
+min errors: 15
+success rate: 0.583333333333
+68
+ideal cost: 1199.50050308
+after cost: 1097.31733326
+min errors: 2
+success rate: 0.944444444444
+69
+ideal cost: 675.795950295
+after cost: 675.614881276
+min errors: 1
+success rate: 0.972222222222
+70
+ideal cost: 1085.81978938
+after cost: 1083.15901394
+min errors: 1
+success rate: 0.972222222222
+71
+ideal cost: 1192.44489893
+after cost: 1171.38801328
+min errors: 2
+success rate: 0.944444444444
+72
+ideal cost: 803.113362242
+after cost: 777.403645606
+min errors: 2
+success rate: 0.944444444444
+73
+ideal cost: 1071.98203691
+after cost: 1071.98203691
+min errors: 0
+success rate: 1.0
+74
+ideal cost: 723.380489062
+after cost: 707.541211683
+min errors: 2
+success rate: 0.944444444444
+75
+ideal cost: 826.557240398
+after cost: 822.509299876
+min errors: 1
+success rate: 0.972222222222
+76
+ideal cost: 1143.40492481
+after cost: 1051.60982248
+min errors: 1
+success rate: 0.972222222222
+77
+ideal cost: 1295.86861735
+after cost: 1101.93668858
+min errors: 5
+success rate: 0.861111111111
+78
+ideal cost: 893.165902411
+after cost: 833.859571888
+min errors: 2
+success rate: 0.944444444444
+79
+ideal cost: 1485.31396147
+after cost: 1317.51430008
+min errors: 5
+success rate: 0.861111111111
+80
+ideal cost: 1123.66965067
+after cost: 1103.61230675
+min errors: 1
+success rate: 0.972222222222
+81
+ideal cost: 1045.88805991
+after cost: 1039.62164378
+min errors: 1
+success rate: 0.972222222222
+82
+ideal cost: 789.836397464
+after cost: 774.5662756
+min errors: 2
+success rate: 0.944444444444
+83
+ideal cost: 907.66888663
+after cost: 1433.85332178
+min errors: 17
+success rate: 0.527777777778
+84
+ideal cost: 965.010744165
+after cost: 949.033459744
+min errors: 2
+success rate: 0.944444444444
+85
+ideal cost: 1616.63017022
+after cost: 1616.63017022
+min errors: 0
+success rate: 1.0
+86
+ideal cost: 1524.28158705
+after cost: 1251.03222594
+min errors: 4
+success rate: 0.888888888889
+87
+ideal cost: 1194.15148424
+after cost: 1055.24288926
+min errors: 2
+success rate: 0.944444444444
+88
+ideal cost: 1462.9012058
+after cost: 1340.52500183
+min errors: 5
+success rate: 0.861111111111
+89
+ideal cost: 979.238831419
+after cost: 974.76702871
+min errors: 1
+success rate: 0.972222222222
+90
+ideal cost: 1147.66609569
+after cost: 1082.65052416
+min errors: 4
+success rate: 0.888888888889
+91
+ideal cost: 1010.08247323
+after cost: 957.449624287
+min errors: 2
+success rate: 0.944444444444
+92
+ideal cost: 880.272336643
+after cost: 778.971698637
+min errors: 2
+success rate: 0.944444444444
+93
+ideal cost: 1238.12236049
+after cost: 1150.38588369
+min errors: 4
+success rate: 0.888888888889
+94
+ideal cost: 904.809386055
+after cost: 871.563606529
+min errors: 1
+success rate: 0.972222222222
+95
+ideal cost: 924.636863003
+after cost: 840.449888953
+min errors: 3
+success rate: 0.916666666667
+96
+ideal cost: 1515.65693504
+after cost: 1284.93496197
+min errors: 6
+success rate: 0.833333333333
+97
+ideal cost: 916.468104343
+after cost: 905.774469943
+min errors: 1
+success rate: 0.972222222222
+98
+ideal cost: 792.508359614
+after cost: 734.725471956
+min errors: 2
+success rate: 0.944444444444
+99
+ideal cost: 1288.02271794
+after cost: 1053.6465563
+min errors: 6
+success rate: 0.833333333333
+average success rate, 100 trials: 0.926666666667
+standard deviation of success rate, 100 trials: 0.0789123595758
+

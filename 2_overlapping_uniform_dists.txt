@@ -1,0 +1,253 @@
+0
+ideal cost: 5082.77842232
+after cost: 3836.10617305
+[150, 54]
+success rate: 0.735294117647
+1
+ideal cost: 6147.40175352
+after cost: 4267.35712582
+[53, 151]
+success rate: 0.740196078431
+2
+ideal cost: 5137.6595657
+after cost: 3754.27427281
+[48, 156]
+success rate: 0.764705882353
+3
+ideal cost: 5299.30652073
+after cost: 3624.73238313
+[43, 161]
+success rate: 0.789215686275
+4
+ideal cost: 5422.66663201
+after cost: 3803.44975306
+[162, 42]
+success rate: 0.794117647059
+5
+ideal cost: 5270.42654004
+after cost: 4540.44812619
+[140, 64]
+success rate: 0.686274509804
+6
+ideal cost: 4557.39737338
+after cost: 4790.77076034
+[136, 68]
+success rate: 0.666666666667
+7
+ideal cost: 5263.65809599
+after cost: 3578.63484926
+[157, 47]
+success rate: 0.769607843137
+8
+ideal cost: 6012.11116729
+after cost: 4010.08479796
+[133, 71]
+success rate: 0.651960784314
+9
+ideal cost: 7184.60350261
+after cost: 4731.97584445
+[88, 116]
+success rate: 0.56862745098
+10
+ideal cost: 5474.3749779
+after cost: 4950.87400696
+[83, 121]
+success rate: 0.593137254902
+11
+ideal cost: 5549.18516791
+after cost: 5186.91777503
+[113, 91]
+success rate: 0.553921568627
+12
+ideal cost: 5275.68721579
+after cost: 3622.90637008
+[170, 34]
+success rate: 0.833333333333
+13
+ideal cost: 5516.012231
+after cost: 3797.20838269
+[49, 155]
+success rate: 0.759803921569
+14
+ideal cost: 5085.7528039
+after cost: 3910.44950288
+[37, 167]
+success rate: 0.81862745098
+15
+ideal cost: 4989.14174806
+after cost: 3966.79021079
+[150, 54]
+success rate: 0.735294117647
+16
+ideal cost: 4672.57812549
+after cost: 4193.19088962
+[64, 140]
+success rate: 0.686274509804
+17
+ideal cost: 5105.48946275
+after cost: 3879.42494436
+[36, 168]
+success rate: 0.823529411765
+18
+ideal cost: 5994.52084215
+after cost: 3299.94645997
+[159, 45]
+success rate: 0.779411764706
+19
+ideal cost: 6401.81468418
+after cost: 4663.97092732
+[66, 138]
+success rate: 0.676470588235
+20
+ideal cost: 4932.99407416
+after cost: 3413.43930208
+[42, 162]
+success rate: 0.794117647059
+21
+ideal cost: 4931.98418208
+after cost: 3486.02647114
+[44, 160]
+success rate: 0.78431372549
+22
+ideal cost: 5411.27247627
+after cost: 4178.52460329
+[57, 147]
+success rate: 0.720588235294
+23
+ideal cost: 5036.82496627
+after cost: 3430.49363241
+[36, 168]
+success rate: 0.823529411765
+24
+ideal cost: 4488.03726242
+after cost: 3508.70720016
+[170, 34]
+success rate: 0.833333333333
+25
+ideal cost: 5082.78139454
+after cost: 3872.98208908
+[81, 123]
+success rate: 0.602941176471
+26
+ideal cost: 5005.91874777
+after cost: 3790.61819622
+[152, 52]
+success rate: 0.745098039216
+27
+ideal cost: 5130.09438169
+after cost: 4566.96003686
+[121, 83]
+success rate: 0.593137254902
+28
+ideal cost: 5082.42415472
+after cost: 4960.11970887
+[128, 76]
+success rate: 0.627450980392
+29
+ideal cost: 4859.38696084
+after cost: 3404.38223237
+[165, 39]
+success rate: 0.808823529412
+30
+ideal cost: 5413.88942556
+after cost: 3299.7558954
+[154, 50]
+success rate: 0.754901960784
+31
+ideal cost: 5514.37984265
+after cost: 4612.02120221
+[150, 54]
+success rate: 0.735294117647
+32
+ideal cost: 4775.76631035
+after cost: 4527.98803874
+[126, 78]
+success rate: 0.617647058824
+33
+ideal cost: 6508.14556324
+after cost: 4276.76250084
+[62, 142]
+success rate: 0.696078431373
+34
+ideal cost: 4498.89482362
+after cost: 4217.46179836
+[139, 65]
+success rate: 0.68137254902
+35
+ideal cost: 4777.66826169
+after cost: 3635.40901459
+[168, 36]
+success rate: 0.823529411765
+36
+ideal cost: 4595.61475958
+after cost: 4082.69173608
+[90, 114]
+success rate: 0.558823529412
+37
+ideal cost: 4460.18497737
+after cost: 3166.82501661
+[170, 34]
+success rate: 0.833333333333
+38
+ideal cost: 5108.7400274
+after cost: 4254.80935041
+[121, 83]
+success rate: 0.593137254902
+39
+ideal cost: 4624.25787211
+after cost: 3308.045345
+[38, 166]
+success rate: 0.813725490196
+40
+ideal cost: 4340.52334536
+after cost: 3827.88923697
+[42, 162]
+success rate: 0.794117647059
+41
+ideal cost: 4176.48317733
+after cost: 4259.46136293
+[128, 76]
+success rate: 0.627450980392
+42
+ideal cost: 6206.0870468
+after cost: 3419.53616902
+[162, 42]
+success rate: 0.794117647059
+43
+ideal cost: 5546.85954312
+after cost: 3661.19540881
+[162, 42]
+success rate: 0.794117647059
+44
+ideal cost: 5027.89504981
+after cost: 4090.66378999
+[130, 74]
+success rate: 0.637254901961
+45
+ideal cost: 6326.56249426
+after cost: 4353.18030753
+[101, 103]
+success rate: 0.504901960784
+46
+ideal cost: 4828.15227971
+after cost: 3357.169183
+[167, 37]
+success rate: 0.81862745098
+47
+ideal cost: 4704.00876554
+after cost: 3700.99727377
+[142, 62]
+success rate: 0.696078431373
+48
+ideal cost: 5345.42574663
+after cost: 4146.6547608
+[168, 36]
+success rate: 0.823529411765
+49
+ideal cost: 6486.53870481
+after cost: 4186.01673364
+[115, 89]
+success rate: 0.563725490196
+average success rate, 100 trials: 0.718431372549
+standard deviation of success rate, 100 trials: 0.0921107519185
+
